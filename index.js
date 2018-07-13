@@ -1,8 +1,8 @@
-// write your code below!
-var string = "Happy holidays!"
+// write your code below! 
+
 
 function happyHolidays() {
-  return string
+  return "Happy holidays!"
   
 }
 function happyHolidaysTo(name){
