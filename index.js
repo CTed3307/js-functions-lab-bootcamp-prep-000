@@ -11,4 +11,5 @@ function happyHolidaysTo(name){
 }
 function happyHolidayTo(holiday, name) {
   return `${holiday}, ${name}!`
+  console.log(happyHolidayTo)
 }
