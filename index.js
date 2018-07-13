@@ -9,7 +9,6 @@ function happyHolidaysTo(name){
    console.log('Happy holidays to')
    return'${name}'
 }
-function say(greeting, firstName) {
-  return `${greeting}, ${firstName}!`
-  console.log('I was called!')
+function happyHolidayTo(holiday, name) {
+  return `${holiday}, ${name}!`
 }
